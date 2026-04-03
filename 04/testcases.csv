@@ -1,0 +1,5 @@
+test_id,Điểm tín dụng,Tỷ lệ khoản vay trên thu nhập năm,Tỷ lệ thanh toán đúng hạn,Expected Output
+1,520,512.74,57.92,Đầu vào không hợp lệ
+2,230,812.73,70.21,Không phê duyệt vay
+3,425,70.5,92.60,Cho vay với lãi thấp
+4,380,22.5,91.30,Cho vay với lãi cao
